@@ -5,6 +5,7 @@ This is a front end simulation of the [tmall - the biggest b2c shopping website 
 Most of the project are composed of **HTML, CSS and JQuery**, combined with a minor flavor of **bootstrap** (eg. carousel). The major pages are as below:
 
 1. Home page
+
 ![](img/snapshot/home.png"home")
 
 2. Login
@@ -41,6 +42,6 @@ Most of the project are composed of **HTML, CSS and JQuery**, combined with a mi
 11. Order list
 ![](img/snapshot/my_order_list.png"order_list")
 
-###**It is only a training project for my own front end skills, I declare there is no intended violation of the tmall or how2j copyright!**
+### **It is only a training project for my own front end skills, I declare there is no intended violation of the tmall or how2j copyright!**
 
-###**Redistribution is NOT allowed, it is only for personal study!**
+### **Redistribution is NOT allowed, it is only for personal study!**

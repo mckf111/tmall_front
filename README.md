@@ -24,31 +24,35 @@ Most of the project are composed of **HTML, CSS and JQuery**, combined with a mi
 
 ![](img/snapshot/search_result.png "search")
 
-6. **Shopping cart**
+6. **Product**
+
+![](img/snapshot/product_detail.png "product")
+
+7. **Shopping cart**
 
 ![](img/snapshot/shopping_cart.png "shopping_cart")
 
-7. **Check-out**
+8. **Check-out**
 
 ![](img/snapshot/checkout.png "checkout")
 
-8. **Pay**
+9. **Pay**
 
 ![](img/snapshot/pay_money.png "pay_money")
 
 ![](img/snapshot/pay_success.png "pay_success")
 
-9. **Receiving**
+10. **Receiving**
 
 ![](img/snapshot/receive_confirmation.png "receiving_confirmation")
 
 ![](img/snapshot/receive_success.png "receiving_success")
 
-10. **Review**
+11. **Review**
 
 ![](img/snapshot/review.png "review")
 
-11. **Order list**
+12. **Order list**
 
 ![](img/snapshot/my_order_list.png "order_list")
 

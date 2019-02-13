@@ -56,6 +56,6 @@ Most of the project are composed of **HTML, CSS and JQuery**, combined with a mi
 
 ![](img/snapshot/my_order_list.png "order_list")
 
-### **It is only a training project for my own front end skills, I declare there is no intended violation of the tmall or how2j copyright!**
+### **It is only a training project for my own front end skills, I declare there is no intended violation of the [tmall](https://www.tmall.com) or [how2j](http://how2j.cn/) copyright!**
 
 ### **Redistribution is NOT allowed, it is only for personal study!**

@@ -1,5 +1,7 @@
 # TMALL Front End Practice
 
+> I have deployed the whole Project in Alibaba Cloud (阿里云), so everyone can visit at [FRONTEND](http://47.254.135.201:8080/tmall/) directly! Note: The backend of the project is based on SSM frameworks, which doesn't show in the repo!
+
 This is a front end simulation of the [tmall - the biggest b2c shopping website in China](https://www.tmall.com). The original idea comes from a project practice in a JAVA learning website: [how2j](http://how2j.cn/).
 
 Most of the project are composed of **HTML, CSS and JQuery**, combined with a minor flavor of **bootstrap** (eg. carousel). The major pages are as below:
